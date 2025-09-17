@@ -1,0 +1,13 @@
+Install Backend Dependencies :- npm i express cors nodemon bcrypt mongoose mongo dotenv nodemailer jsonwebtoken
+
+Install frontend dependencies:- npm i react react-router-dom react-toastify styled-components axios react-icons
+
+color palette: https://colorhunt.co/palette/82aae391d8e4bfeaf5eafdfc
+
+get all teacher template: https://codepen.io/faaezahmd/pen/dJeRex
+
+dashboard template: https://codepen.io/vaibhav-khating/details/qBKgGep
+
+https://codepen.io/StephenScaff/pen/bVbEbJ
+
+https://codepen.io/sreisner/pen/KazJmO
